@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Claude Usage
+Comment=Claude session and weekly usage limits
+Type=Application
+Exec=cosmic-applet-claude-usage
+Terminal=false
+Categories=COSMIC;
+Keywords=COSMIC;Iced;Claude;
+Icon=io.github.farzodd.CosmicAppletClaudeUsage
+StartupNotify=true
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
+X-OverflowPriority=10
